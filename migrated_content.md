@@ -17,7 +17,6 @@ type: tool
 <table>
 <tbody>
 <tr class="odd">
-<p>{{Template:Project_About</p></td>
 <td><p>project_name=PyTM</p></td>
 <h2 id="owasp_pytm">OWASP PyTM</h2>
 <p>PyTM is an effort to enable developers to create and maintain threat models in a way that is natural for them, using a familiar OO syntax (Python, but should be generic enough to enable any developer with minimal OO experience to use it) to describe a system in terms of its elements and their attributes, in a way that can be easily shared, version-controlled and collaborated on.</p>
