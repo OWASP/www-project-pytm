@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Izar Tarandach](mailto://)
+* [Izar Tarandach](mailto:)
