@@ -1,10 +1,9 @@
 ### Project Classification
 
-![Incubator Project](/assets/images/common/owasp_level_incubator.svg "Incubator Project")
+* <i class="fas fa-egg" style="color:#2ADA08;"></i>Incubator Project
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
 
-![Builders](/assets/images/common/owasp_builders.svg)
-
-![Tool Project](/assets/images/common/owasp_tool_project.svg)
+* <i class="fas fa-tools" style="color:#233e81;"></i> Tool
 
 ### External Resources
 
