@@ -18,7 +18,7 @@ tm.py --dfd | dot -Tpng -o sample.png
 
 Generates this diagram:
 
-![dfd.png](/assets/images/dfd.png)
+![dfd.png](assets/images/dfd.png)
 
 
 The following command generates a Sequence diagram.
@@ -31,4 +31,4 @@ tm.py --seq | java -Djava.awt.headless=true -jar plantuml.jar -tpng -pipe > seq.
 
 Generates this diagram:
 
-![seq.png](/assets/images/seq.png)
+![seq.png](assets/images/seq.png)
