@@ -1,3 +1,11 @@
+---
+title: Threats
+layout: null
+tags: threat-modeling threat modeling dataflow-diagram dataflow diagram python graphviz plantuml
+tab: true
+order: 6
+---
+
 For the security practitioner, you may supply your own threats file by setting `TM.threatsFile`. It should contain entries like:
 
 ```json

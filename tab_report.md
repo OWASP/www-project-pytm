@@ -1,3 +1,11 @@
+---
+title: Report
+layout: null
+tags: threat-modeling threat modeling dataflow-diagram dataflow diagram python graphviz plantuml
+tab: true
+order: 5
+---
+
 The diagrams and findings can be included in the template to create a final report:
 
 ```bash
