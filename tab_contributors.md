@@ -1,9 +1,9 @@
 ---
-title: Team
+title: Contributors
 layout: null
 tags: threat-modeling threat modeling dataflow-diagram dataflow diagram python graphviz plantuml
 tab: true
-order: 3
+order: 5
 ---
 
 # PyTM Main Contributors
