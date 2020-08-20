@@ -6,6 +6,17 @@ level: 2
 type: tool
 ---
 
+<style type="text/css">
+.image-right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+</style>
+
+![pytm logo](assets/images/logo.png){: .image-right }
+
 pytm is a Pythonic framework for threat modeling.
 
 Define your system in Python using the elements and properties described in the pytm framework.
