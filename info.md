@@ -1,6 +1,6 @@
 ### Project Classification
 
-* <i class="fas fa-egg" style="color:#2ADA08;"></i>Incubator Project
+* ![Lab Project](/assets/images/common/owasp_level_labs.svg){:width='45px' }
 * <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
 
 * <i class="fas fa-tools" style="color:#233e81;"></i> Tool
