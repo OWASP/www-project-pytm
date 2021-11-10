@@ -8,7 +8,7 @@ order: 2
 
 Requirements:
 
-* Linux/MacOS
+* Linux/MacOS/Windows
 * Python 3.x
 * Graphviz package
 * Java (OpenJDK 10 or 11)
