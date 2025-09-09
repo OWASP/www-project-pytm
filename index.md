@@ -2,7 +2,7 @@
 title: OWASP pytm
 layout: col-sidebar
 tags: threat-modeling threat modeling dataflow-diagram dataflow diagram python graphviz plantuml
-level: 3
+level: 3.5
 type: tool
 ---
 
