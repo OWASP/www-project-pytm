@@ -1,0 +1,37 @@
+audience:
+  - builder
+community:
+  - name: project-pytm
+    platform: slack
+    url: https://owasp.slack.com/archives/C02KRQ0CATB
+    description: Talking about pytm, the Pythonic way to threat model
+leaders:
+  - name: Izar Tarandach
+    github: izar
+level: 3.5
+license:
+  - OTHER
+name: OWASP pytm
+pitch: Description for OWASP pytm
+repositories:
+  - name: www-project-pytm
+    url: https://github.com/OWASP/www-project-pytm
+    description: OWASP Foundation Web Repository
+  - name: pytm
+    url: https://github.com/izar/pytm
+    description: A Pythonic framework for threat modeling
+  - name: pytm
+    url: https://github.com/OWASP/pytm
+    description: A Pythonic framework for threat modeling
+tags:
+  - threat-modeling
+  - threat
+  - modeling
+  - dataflow-diagram
+  - dataflow
+  - diagram
+  - python
+  - graphviz
+  - plantuml
+type: tool
+website: https://owasp.org/www-project-pytm
