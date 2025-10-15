@@ -1,9 +1,12 @@
 ---
+
 title: OWASP pytm
 layout: col-sidebar
 tags: threat-modeling threat modeling dataflow-diagram dataflow diagram python graphviz plantuml
 level: 3.5
 type: tool
+pitch: pytm is a Pythonic framework for threat modeling. The goal of pytm is to shift threat modeling to the left, making threat modeling more automated and developer-centric
+
 ---
 
 <style type="text/css">
