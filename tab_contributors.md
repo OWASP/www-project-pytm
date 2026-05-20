@@ -8,12 +8,10 @@ order: 7
 
 # PyTM Main Contributors
 
-* Was, Jan
-* Avhad, Pooja
-* Coles, Matthew
-* Ozmore, Nick
-* Shambhuni, Rohit
-* Tarandach, Izar
+* Jan Was
+* Nick Le Mouton
+* Raphael Arens
+
 
 Join us!
 
